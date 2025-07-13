@@ -17,7 +17,7 @@
 🧠 Fun fact: I'm also a **poet**, and I love combining creativity with code.
 
 📫 Reach me at:  
-[LinkedIn]https://www.linkedin.com/public-profile/settings) • [GitHub](https://github.com/Babar-mir) • [Email](mailto:babarmir219@gmail.com)
+[LinkedIn](https://www.linkedin.com/public-profile/settings) • [GitHub](https://github.com/Babar-mir) • [Email](mailto:babarmir219@gmail.com)
 
 ---
 
