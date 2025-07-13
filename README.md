@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Babar Mohiudin Mir
 
-<!--
-**Babar-mir/Babar-mir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a B.Tech student in **Artificial Intelligence in Agriculture** at **SKUAST-Kashmir**, under a collaborative program with **IIT Mandi**.
 
-Here are some ideas to get you started:
+💻 I’m passionate about **AI**, **Python programming**, and building tech solutions that make an impact — whether in agriculture or beyond.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I’m currently learning:
+- Python Libraries like `NumPy`, `Pandas`, `Matplotlib`
+- Git & GitHub (version control)
+- Basics of Machine Learning
+
+🛠️ Projects I'm working on:
+- 🤖 [BabarBot – A Simple Python Chatbot](https://github.com/YOUR-USERNAME/babarbot)
+- 📄 PDF tools and scripts
+- More Python automation scripts coming soon!
+
+🧠 Fun fact: I'm also a **poet**, and I love combining creativity with code.
+
+📫 Reach me at:  
+[LinkedIn]https://www.linkedin.com/public-profile/settings) • [GitHub](https://github.com/Babar-mir) • [Email](mailto:babarmir219@gmail.com)
+
+---
+
+⭐ Check out my repositories and feel free to connect!
