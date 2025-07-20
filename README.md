@@ -1,24 +1,39 @@
-# 👋 Hi, I'm Babar Mohiudin Mir
+<h1 align="center">Hi 👋, I'm Babar Mohiudin Mir</h1>
+<h3 align="center">B.Tech CSE Student @ IIIT Bhubaneswar | Python Developer | Open Source Enthusiast | GSoC Aspirant</h3>
 
-🎓 I'm a B.Tech student in **Artificial Intelligence in Agriculture** at **SKUAST-Kashmir**, under a collaborative program with **IIT Mandi**.
-
-💻 I’m passionate about **AI**, **Python programming**, and building tech solutions that make an impact — whether in agriculture or beyond.
-
-📚 I’m currently learning:
-- Python Libraries like `NumPy`, `Pandas`, `Matplotlib`
-- Git & GitHub (version control)
-- Basics of Machine Learning
-
-🛠️ Projects I'm working on:
-- 🤖 [BabarBot – A Simple Python Chatbot](https://github.com/YOUR-USERNAME/babarbot)
-- 📄 PDF tools and scripts
-- More Python automation scripts coming soon!
-
-🧠 Fun fact: I'm also a **poet**, and I love combining creativity with code.
-
-📫 Reach me at:  
-[LinkedIn](https://www.linkedin.com/public-profile/settings) • [GitHub](https://github.com/Babar-mir) • [Email](mailto:babarmir219@gmail.com)
+<p align="center">
+  🏡 Kupwara, Jammu & Kashmir | 🎓 IIIT Bhubaneswar (PMSSS) | 💡 Exploring Python, CLI, Open Source, and ML
+</p>
 
 ---
 
-⭐ Check out my repositories and feel free to connect!
+### 🚀 About Me
+
+- 🎓 I’m currently pursuing **B.Tech in Computer Science & Engineering** at **IIIT Bhubaneswar** through the **PMSSS scholarship**
+- 🐍 I build tools using **Python**, especially **CLI applications**
+- 📦 Publishing on **PyPI**, contributing to **open source**, and preparing for **Google Summer of Code (GSoC)**
+- 💬 I enjoy working on projects that combine technology with real-world problem-solving
+
+---
+
+### 💼 Projects
+- 🤖 `Simple Chatbot` – Terminal-based chatbot in Python (basic NLP)
+- 🛠️ All projects available on [GitHub](https://github.com/Babar-mir)
+
+---
+
+### 💻 Tech Stack
+
+- Languages: `Python`
+- Tools: `Git`, `GitHub`, `CLI`, `PyPI`
+- Libraries: `pandas`, `numpy`
+- Currently Learning: `DSA`, `Machine Learning`, `Open Source Contribution`
+
+---
+
+### 🎯 Goals
+
+- ✅ Build and publish multiple CLI tools on PyPI
+- 🌍 Contribute to GSoC-friendly open source organizations
+- 🧠 Strengthen DSA and core CS concepts
+- 💻 Participate in coding contests and hackathons
