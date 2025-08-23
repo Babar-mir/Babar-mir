@@ -24,7 +24,7 @@
 
 ### 💻 Tech Stack
 
-- Languages: `Python`,'C'
+- Languages: `Python`,`C`
 - Tools: `Git`, `GitHub`, `CLI`, `PyPI`
 - Libraries: `pandas`, `numpy`
 - Currently Learning: `DSA`, `Machine Learning`, `Open Source Contribution`
