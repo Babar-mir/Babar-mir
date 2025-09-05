@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I’m currently pursuing **B.Tech in Computer Science & Engineering** at **IIIT Bhubaneswar** through the **PMSSS scholarship**
+- 🎓 I’m currently pursuing **B.Tech in Computer Science & Engineering** at **IIIT Bhubaneswar** 
 - 🐍 I build tools using **Python**, especially **CLI applications**
 - 📦 Publishing on **PyPI**, contributing to **open source**, and preparing for **Google Summer of Code (GSoC)**
 - 💬 I enjoy working on projects that combine technology with real-world problem-solving
