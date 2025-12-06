@@ -34,6 +34,5 @@
 ### 🎯 Goals
 
 - ✅ Build and publish multiple CLI tools on PyPI
-- 🌍 Contribute to GSoC-friendly open source organizations
 - 🧠 Strengthen DSA and core CS concepts
-- 💻 Participate in coding contests and hackathons
+- 💻 Participate in coding contests
