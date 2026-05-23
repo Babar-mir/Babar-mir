@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I’m currently pursuing **B.Tech in Computer Science & Engineering** at **IIIT Bhubaneswar** 
+- 🎓 I’m currently doing **B.Tech in Computer Science & Engineering** at **IIIT Bhubaneswar** 
 - 🐍 I build tools using **Python**, especially **CLI applications**
 - 📦 Publishing on **PyPI**, contributing to **open source**
 - 💬 I enjoy working on projects that combine technology with real-world problem-solving
@@ -24,7 +24,7 @@
 
 ### 💻 Tech Stack
 
-- Languages: `Python`,`C`
+- Languages: `Python`,`C`,`C++`
 - Tools: `Git`, `GitHub`, `CLI`, `PyPI`
 - Libraries: `pandas`, `numpy`
 - Currently Learning: `DSA`, `Machine Learning`, `Open Source Contribution`
